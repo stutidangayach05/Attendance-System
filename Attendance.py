@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 25 19:24:19 2020
 
-@author: Shrey
+@author: Stuti
 """
 import cv2
 import csv
