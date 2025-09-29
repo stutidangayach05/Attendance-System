@@ -3,6 +3,8 @@ Attendance System Using Real Time Face Recognition
 
 <img width="558" alt="image" src="https://user-images.githubusercontent.com/54055303/204211801-b8c531a3-ce48-41bc-94c5-6fe6f3cb7d87.png">
 
+<img width="1454" height="667" alt="image" src="https://github.com/user-attachments/assets/388ae04d-19d1-4a57-8a87-0a293d34364b" />
+
 
 
 Libraries Required:-
